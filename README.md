@@ -34,3 +34,5 @@ It works by changing the opacity of the `<ellipse>` element and the different `<
 _( The screenshot below is just a suggestion on how it can look when the user failed to guess to secret word )_
 
 ![screen](screen.png)
+
+[Hangman](https://maichonok.github.io/Lexicon-exercise-js-hangman/)
